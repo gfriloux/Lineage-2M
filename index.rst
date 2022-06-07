@@ -8,3 +8,4 @@ Lineage 2M
   :name: classes
 
   classes/dualblades
+  classes/greatsword
