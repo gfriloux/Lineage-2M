@@ -9,6 +9,6 @@ jobs:
     - uses: actions/checkout@v1
     - uses: ammaraskar/sphinx-action@master
       with:
-        pre-build-command: "apt-get update -y && apt-get install -y pip && pip install sphinx_rtd_theme"
+        pre-build-command: "apt-get update -y && apt-get install -y python3-sphinx-rtd-theme"
         build-command: "sphinx-build -b html . _build"
         docs-folder: "./"
