@@ -6,3 +6,5 @@ Lineage 2M
   :titlesonly:
   :caption: Classes
   :name: classes
+
+  classes/dualblades
