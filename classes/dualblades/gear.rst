@@ -28,10 +28,24 @@ Green
   * - Armor - Gloves
     - | ``Orcish Power Gauntlets``
       | Defense +2
-      | STR + 1
+      | STR +1
     - | ``Mithril Gloves``
       | Defense +2
       | All Damage +1
+  * - Armor - Shoes
+    - | ``Boots of Faith``
+      | Defense +2
+      | WIS +1
+    - | ``Mithril Boots``
+      | Defense +3
+      | CON +1
+  * - Armor - Helmet
+    - | ``Lesser Giant Guardian's Helm``
+      | Defense +3
+      | CON +1
+    - | ``Mithril Helmet``
+      | Defense +3
+      | HP Recovery (Tick) +4
     
 
 Blue
