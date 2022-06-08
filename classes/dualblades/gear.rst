@@ -17,11 +17,11 @@ Green
     - .. thumbnail:: ../../images/armor/upper/silenos_reinforced_breastplate.png
     - .. thumbnail:: ../../images/armor/upper/mithril_breastplate.png
   * - Armor - Lower
-    - .. thumbnail:: ../../images/armor/upper/blast_gaiters.png
-    - .. thumbnail:: ../../images/armor/upper/reinforced_plate_gaiters.png
+    - .. thumbnail:: ../../images/armor/lower/blast_gaiters.png
+    - .. thumbnail:: ../../images/armor/lower/reinforced_plate_gaiters.png
   * - Armor - Gloves
-    - .. thumbnail:: ../../images/armor/upper/orcish_power_gauntlets.png
-    - .. thumbnail:: ../../images/armor/upper/mithril_gloves.png
+    - .. thumbnail:: ../../images/armor/gloves/orcish_power_gauntlets.png
+    - .. thumbnail:: ../../images/armor/gloves/mithril_gloves.png
     
 
 Blue
