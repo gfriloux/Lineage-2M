@@ -14,14 +14,24 @@ Green
     - Best overall
     - Best craftable
   * - Armor - Upper
-    - .. thumbnail:: ../../images/armor/upper/silenos_reinforced_breastplate.png
-    - .. thumbnail:: ../../images/armor/upper/mithril_breastplate.png
+    - | `Silenos Reinforced Breastplate`
+      | Defense +6
+      |HP Rocvery (Tick) +6
+    - | `Mithril Breastplate`
+      | Defense +6
   * - Armor - Lower
-    - .. thumbnail:: ../../images/armor/lower/blast_gaiters.png
-    - .. thumbnail:: ../../images/armor/lower/reinforced_plate_gaiters.png
+    - | `Blast Gaiters`
+      | Defense +4
+      | All Damage +1
+    - | `Reinforced Plate Gaiters`
+      | Defense +5
   * - Armor - Gloves
-    - .. thumbnail:: ../../images/armor/gloves/orcish_power_gauntlets.png
-    - .. thumbnail:: ../../images/armor/gloves/mithril_gloves.png
+    - | `Orcish Power Gauntlets`
+      | Defense +2
+      | STR + 1
+    - | `Mithril Gloves`
+      | Defense +2
+      | All Damage +1
     
 
 Blue
