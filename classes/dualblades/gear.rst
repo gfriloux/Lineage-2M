@@ -46,7 +46,20 @@ Green
     - | ``Mithril Helmet``
       | Defense +3
       | HP Recovery (Tick) +4
-    
+  * - Armor - Cloak
+    - | ``Prine's Feather``
+      | Defense +2
+      | AGI +1
+    - | ``Sage's Cloak``
+      | Defense +2
+      | WIS +1
+  * - Armor - Shirt
+    - | ``Linen Shirt of Might``
+      | STR +1
+    - | ``Shirt of Concentration``
+      | MP Recovery (Tick) +4
+      | Light Type Damage +1
+
 
 Blue
 ----
