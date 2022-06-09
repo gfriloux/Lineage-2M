@@ -59,7 +59,15 @@ Green
     - | ``Shirt of Concentration``
       | MP Recovery (Tick) +4
       | Light Type Damage +1
-
+  * - Armor - Sigil
+    - | ``Sigil of Might``
+      | Melee Damage +1
+      | STR +1
+      | Weapon Block +2%
+    - | ``Sigil of Might``
+      | Melee Damage +1
+      | STR +1
+      | Weapon Block +2%
 
 Blue
 ----
