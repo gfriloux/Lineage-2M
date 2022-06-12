@@ -10,7 +10,7 @@ Compact list
   * - :ref:`boss-andras`
     - 
     - |AoE Stun| |AoE Blind|
-  * - Balbo
+  * - :ref:`boss-balbo`
     - |Magic Damage Reduction| |Ranged Damage Reduction|
     - 
   * - Basila
