@@ -7,7 +7,7 @@ Compact list
   * - Name
     - Passives
     - Abilities
-  * - Flynt
+  * - :ref:`boss-flynt`
     - |Weapon_Break| |Magic Damage Reduction| |Ranged Damage Reduction|
     - 
 

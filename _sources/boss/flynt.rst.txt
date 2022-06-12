@@ -1,3 +1,5 @@
+.. _boss-flynt:
+
 Flynt
 =====
 
