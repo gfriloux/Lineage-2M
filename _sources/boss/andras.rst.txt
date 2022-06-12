@@ -3,6 +3,19 @@
 Andras
 ======
 
+Will alternative between blind and stun AoE, at fixed times.
+
+.. list-table:: Active Skills
+
+  * - Icons
+    - Description
+  * - |AoE Stun|
+    - | Once in a while, will stun everyone around him.
+      | Mid range
+  * - |AoE Blind|
+    - | Once in a while, will blind everyone around him.
+      | Mid range
+
 Drops
 -----
 
@@ -25,6 +38,10 @@ Unique
 
 
 
-.. |Substitution Name| image:: ../images/icons/weapon_break.png
-  :width: 32
-  :alt: Weapon Break
+.. |AoE Stun| image:: ../images/icons/aoe_stun.png
+  :width: 64
+  :alt: AoE Stun
+
+.. |AoE Blind| image:: ../images/icons/aoe_blind.png
+  :width: 64
+  :alt: AoE Blind
