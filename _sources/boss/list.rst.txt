@@ -13,7 +13,7 @@ Compact list
   * - :ref:`boss-balbo`
     - |Magic Damage Reduction| |Ranged Damage Reduction|
     - 
-  * - Basila
+  * - :ref:`boss-basila`
     - |Weapon_Break| |Magic Damage Reduction| |Ranged Damage Reduction|
     - 
   * - Behemoth
