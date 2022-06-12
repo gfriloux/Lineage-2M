@@ -9,3 +9,12 @@ Lineage 2M
 
   classes/dualblades
   classes/greatsword
+
+.. toctree::
+  :maxdepth: 2
+  :titlesonly:
+  :caption: Bosses
+  :name: bosses
+
+  boss/list
+  boss/flynt
