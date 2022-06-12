@@ -17,4 +17,5 @@ Lineage 2M
   :name: bosses
 
   boss/list
+  boss/andras
   boss/flynt

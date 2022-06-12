@@ -6,4 +6,5 @@ Radiant Stone of Magic
 Droped By
 ----------
 
+* :ref:`boss-andras`
 * :ref:`boss-flynt`
