@@ -20,4 +20,5 @@ Lineage 2M
   boss/andras
   boss/balbo
   boss/basila
+  boss/behemoth
   boss/flynt

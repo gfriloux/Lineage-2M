@@ -16,7 +16,7 @@ Compact list
   * - :ref:`boss-basila`
     - |Weapon_Break| |Magic Damage Reduction| |Ranged Damage Reduction|
     - 
-  * - Behemoth
+  * - :ref:`boss-behemoth`
     - |Magic Damage Reduction| |Ranged Damage Reduction|
     - 
   * - Black Lily
