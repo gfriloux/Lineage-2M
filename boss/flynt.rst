@@ -7,8 +7,10 @@ Flynt
 * Ranged damage reduction
 * Magic damage reduction
 
+Drops
+-----
 
-
+* :ref:`items-bow-plasma-bow`
 
 
 
