@@ -7,6 +7,18 @@ Compact list
   * - Name
     - Passives
     - Abilities
+  * - Balbo
+    - |Magic Damage Reduction| |Ranged Damage Reduction|
+    - 
+  * - Basila
+    - |Weapon_Break| |Magic Damage Reduction| |Ranged Damage Reduction|
+    - 
+  * - Behemoth
+    - |Magic Damage Reduction| |Ranged Damage Reduction|
+    - 
+  * - Black Lily
+    - |Magic Damage Reduction| |Ranged Damage Reduction|
+    - 
   * - :ref:`boss-flynt`
     - |Weapon_Break| |Magic Damage Reduction| |Ranged Damage Reduction|
     - 
