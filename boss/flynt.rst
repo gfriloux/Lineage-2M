@@ -10,8 +10,23 @@ Flynt
 Drops
 -----
 
-* :ref:`items-bow-plasma-bow`
+Epic
+####
 
+* :ref:`items-staff-bloody-nebulite`
+* :ref:`items-bow-plasma-bow`
+* :ref:`items-necklace-zakensnecklace`
+* :ref:`items-skillbook-inheritorsbook-stunresist1`
+* :ref:`items-skillbook-inheritorsbook-salvation`
+* :ref:`items-skillbook-inheritorsbook-increasestun1`
+* :ref:`items-material-epiccraftrecipe`
+
+Unique
+######
+
+* :ref:`items-shoes-doom-plate-boots`
+* :ref:`items-material-uniquecraftrecipe`
+* :ref:`items-magicstone-radiantstoneofmagic`
 
 
 
