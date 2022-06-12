@@ -7,7 +7,7 @@ Compact list
   * - Name
     - Passives
     - Abilities
-  * - Andras
+  * - :ref:`boss-andras`
     - 
     - |AoE Stun| |AoE Blind|
   * - Balbo
