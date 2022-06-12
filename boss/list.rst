@@ -14,5 +14,5 @@ Compact list
 
 
 .. |Weapon_Break| image:: ../images/icons/weapon_break.png
-  :width: 16
+  :width: 24
   :alt: Weapon Break
