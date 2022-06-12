@@ -9,7 +9,7 @@ Compact list
     - Abilities
   * - Andras
     - 
-    - 
+    - |AoE Stun| |AoE Blind|
   * - Balbo
     - |Magic Damage Reduction| |Ranged Damage Reduction|
     - 
@@ -128,6 +128,14 @@ Compact list
     - |Magic Damage Reduction| |Ranged Damage Reduction|
     - 
 
+
+.. |AoE Stun| image:: ../images/icons/aoe_stun.png
+  :width: 24
+  :alt: AoE Stun
+
+.. |AoE Blind| image:: ../images/icons/aoe_blind.png
+  :width: 24
+  :alt: AoE Blind
 
 .. |Weapon_Break| image:: ../images/icons/weapon_break.png
   :width: 24
