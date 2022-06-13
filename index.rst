@@ -11,14 +11,10 @@ Lineage 2M
   classes/greatsword
 
 .. toctree::
-  :maxdepth: 2
+  :maxdepth: 4
   :titlesonly:
   :caption: Bosses
   :name: bosses
 
   boss/list
-  boss/andras
-  boss/balbo
-  boss/basila
-  boss/behemoth
-  boss/flynt
+  boss/list_sorted

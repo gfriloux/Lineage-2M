@@ -15,3 +15,4 @@ Droped By
 ----------
 
 * :ref:`boss-andras`
+* :ref:`boss-black-lily`
