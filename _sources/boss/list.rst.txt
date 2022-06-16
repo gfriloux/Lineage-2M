@@ -25,7 +25,7 @@ Compact list
   * - :ref:`boss-breka`
     - |Magic Damage Reduction| |Ranged Damage Reduction|
     - 
-  * - Cabrio
+  * - :ref:`boss-cabrio`
     - |Magic Damage Reduction| |Ranged Damage Reduction|
     - 
   * - Chertuba

@@ -7,4 +7,5 @@ Droped By
 ----------
 
 * :ref:`boss-andras`
+* :ref:`boss-cabrio`
 * :ref:`boss-flynt`

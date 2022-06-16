@@ -12,4 +12,5 @@ Droped By
 * :ref:`boss-behemoth`
 * :ref:`boss-black-lily`
 * :ref:`boss-breka`
+* :ref:`boss-cabrio`
 * :ref:`boss-flynt`

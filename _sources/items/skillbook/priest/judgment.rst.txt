@@ -11,3 +11,4 @@ Droped By
 ----------
 
 * :ref:`boss-black-lily`
+* :ref:`boss-cabrio`
