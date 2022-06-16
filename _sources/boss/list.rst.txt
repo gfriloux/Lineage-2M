@@ -22,7 +22,7 @@ Compact list
   * - :ref:`boss-black-lily`
     - |Magic Damage Reduction| |Ranged Damage Reduction|
     - 
-  * - Breka
+  * - :ref:`boss-breka`
     - |Magic Damage Reduction| |Ranged Damage Reduction|
     - 
   * - Cabrio
