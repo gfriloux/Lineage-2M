@@ -1,7 +1,7 @@
 .. _items-skillbook-inheritorsbook-increasestun1:
 
 Inheritor's Book (Inscrease Stun 1)
-================================
+===================================
 
 Increases Stun Accuracy.
 
