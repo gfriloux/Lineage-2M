@@ -19,7 +19,7 @@ Compact list
   * - :ref:`boss-behemoth`
     - |Magic Damage Reduction| |Ranged Damage Reduction|
     - 
-  * - Black Lily
+  * - :ref:`boss-black-lily`
     - |Magic Damage Reduction| |Ranged Damage Reduction|
     - 
   * - Breka
