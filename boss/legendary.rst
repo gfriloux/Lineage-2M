@@ -8,3 +8,4 @@ Legendary bosses
   :name: 
 
   black_lily
+  cabrio
