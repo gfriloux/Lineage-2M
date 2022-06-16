@@ -18,3 +18,11 @@ Lineage 2M
 
   boss/list
   boss/list_sorted
+
+.. toctree::
+  :maxdepth: 4
+  :titlesonly:
+  :caption: Items
+  :name: items
+
+  items/type
