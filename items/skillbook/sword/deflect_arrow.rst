@@ -17,3 +17,4 @@ Droped By
 ----------
 
 * :ref:`boss-balbo`
+* :ref:`boss-breka`
