@@ -13,3 +13,4 @@ Type list
   dualblades
   glove
   greatsword
+  lower
