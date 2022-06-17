@@ -11,3 +11,5 @@ Type list
   bow
   dagger
   dualblades
+  glove
+  greatsword
