@@ -14,3 +14,4 @@ Type list
   glove
   greatsword
   lower
+  magicstone
