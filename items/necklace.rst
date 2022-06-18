@@ -19,3 +19,4 @@ Unique
   :titlesonly:
 
   necklace/black_lilys_magic_necklace
+  necklace/chertubas_soul_necklace

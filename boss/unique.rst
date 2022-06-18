@@ -9,3 +9,4 @@ Unique Bosses
 
   basila
   breka
+  chertuba

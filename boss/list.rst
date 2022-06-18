@@ -28,7 +28,7 @@ Compact list
   * - :ref:`boss-cabrio`
     - |Magic Damage Reduction| |Ranged Damage Reduction|
     - 
-  * - Chertuba
+  * - :ref:`boss-chertuba`
     - |Magic Damage Reduction| |Ranged Damage Reduction|
     - 
   * - Contaminated Cruma
