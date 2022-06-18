@@ -1,5 +1,5 @@
-Magic Stone
-===========
+Spears
+======
 
 Unique
 ------
@@ -8,4 +8,4 @@ Unique
   :maxdepth: 4
   :titlesonly:
 
-  magicstone/radiant_stone_of_magic
+  spear/great_axe

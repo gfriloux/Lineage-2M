@@ -1,5 +1,5 @@
-Lower
-=====
+Bows
+====
 
 Epic
 ----
@@ -8,7 +8,7 @@ Epic
   :maxdepth: 4
   :titlesonly:
 
-  lower/crystal_gaiters
+  bow/true_target
 
 
 Unique
@@ -18,4 +18,5 @@ Unique
   :maxdepth: 4
   :titlesonly:
 
-  lower/basilas_skin
+  bow/scouter_stance
+  bow/sniper_stance

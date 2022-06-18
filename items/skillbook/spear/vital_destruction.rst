@@ -32,4 +32,4 @@ Vanguard Mode Extra Effect
 Droped By
 ----------
 
-* :ref:`boss-balbo`
+* :ref:`boss-behemoth`

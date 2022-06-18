@@ -1,4 +1,4 @@
-Lower
+Shoes
 =====
 
 Epic
@@ -8,7 +8,7 @@ Epic
   :maxdepth: 4
   :titlesonly:
 
-  lower/crystal_gaiters
+  shoes/demons_boots
 
 
 Unique
@@ -18,4 +18,5 @@ Unique
   :maxdepth: 4
   :titlesonly:
 
-  lower/basilas_skin
+  shoes/doom_plate_boots
+  shoes/thunder_leather_boots

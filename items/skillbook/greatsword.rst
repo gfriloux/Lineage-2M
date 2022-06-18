@@ -1,5 +1,5 @@
-Bows
-====
+Greatswords
+===========
 
 Epic
 ----
@@ -8,4 +8,4 @@ Epic
   :maxdepth: 4
   :titlesonly:
 
-  bow/plasma_bow
+  greatsword/bash3

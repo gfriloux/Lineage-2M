@@ -1,5 +1,5 @@
-Bows
-====
+Staff
+=====
 
 Epic
 ----
@@ -8,4 +8,4 @@ Epic
   :maxdepth: 4
   :titlesonly:
 
-  bow/plasma_bow
+  staff/bloodynebulite

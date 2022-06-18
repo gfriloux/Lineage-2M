@@ -1,7 +1,7 @@
 .. _items-skillbook-sword-deflectarrow:
 
-Battle Tome (Double Shock)
-==========================
+Battle Tome (Deflect Arrow)
+===========================
 
 🛠 Craftable item.
 

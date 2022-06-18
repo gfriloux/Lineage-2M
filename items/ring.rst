@@ -1,5 +1,5 @@
-Bows
-====
+Rings
+=====
 
 Epic
 ----
@@ -8,4 +8,4 @@ Epic
   :maxdepth: 4
   :titlesonly:
 
-  bow/plasma_bow
+  ring/forgotten_heros_ring

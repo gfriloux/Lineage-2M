@@ -1,4 +1,4 @@
-Materials
+Necklaces
 =========
 
 Epic
@@ -8,8 +8,8 @@ Epic
   :maxdepth: 4
   :titlesonly:
 
-  material/epic_craft_recipe
-
+  necklace/anakims_soul_necklace
+  necklace/zakens_necklace
 
 Unique
 ------
@@ -18,4 +18,4 @@ Unique
   :maxdepth: 4
   :titlesonly:
 
-  material/unique_craft_recipe
+  necklace/black_lilys_magic_necklace

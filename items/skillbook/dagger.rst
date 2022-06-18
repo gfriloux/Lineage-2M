@@ -8,5 +8,4 @@ Epic
   :maxdepth: 4
   :titlesonly:
 
-  dagger/flame_breaker
-  dagger/soul_separator
+  dagger/shadow_step

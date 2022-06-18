@@ -1,4 +1,4 @@
-Bows
+Orbs
 ====
 
 Epic
@@ -8,4 +8,4 @@ Epic
   :maxdepth: 4
   :titlesonly:
 
-  bow/plasma_bow
+  orb/cabrios_hand

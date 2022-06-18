@@ -1,4 +1,4 @@
-Magic Stone
+Dual Blades
 ===========
 
 Unique
@@ -8,4 +8,4 @@ Unique
   :maxdepth: 4
   :titlesonly:
 
-  magicstone/radiant_stone_of_magic
+  dualswords/double_slash

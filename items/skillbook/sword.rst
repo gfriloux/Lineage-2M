@@ -1,4 +1,4 @@
-Lower
+Sword
 =====
 
 Epic
@@ -8,8 +8,7 @@ Epic
   :maxdepth: 4
   :titlesonly:
 
-  lower/crystal_gaiters
-
+  sword/double_shock
 
 Unique
 ------
@@ -18,4 +17,4 @@ Unique
   :maxdepth: 4
   :titlesonly:
 
-  lower/basilas_skin
+  sword/deflect_arrow

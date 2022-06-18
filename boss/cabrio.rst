@@ -16,7 +16,7 @@ Epic
 
 * :ref:`items-dagger-flame-breaker`
 * :ref:`items-orb-cabrios-hand`
-* :ref:`items-skillbook-staff-stigma`
+* :ref:`items-skillbook-staff-tempest3`
 * :ref:`items-skillbook-priest-judgment`
 * :ref:`items-material-epiccraftrecipe`
 

@@ -1,5 +1,12 @@
 Gloves
 ======
 
-* :ref:`items-shoes-doom-plate-gauntlets`
-* :ref:`items-gloves-thunder-leather-gloves`
+Unique
+------
+
+.. toctree::
+  :maxdepth: 4
+  :titlesonly:
+
+  gloves/doom_plate_gauntlets
+  gloves/thunder_leather_gloves

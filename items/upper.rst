@@ -1,4 +1,4 @@
-Belts
+Upper
 =====
 
 Unique
@@ -8,4 +8,5 @@ Unique
   :maxdepth: 4
   :titlesonly:
 
-  belt/behemoths_leather_belt
+  upper/doom-plate-armor
+  upper/thunder_leather_armor

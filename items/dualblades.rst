@@ -1,6 +1,22 @@
 Dual Blades
 ===========
 
-* :ref:`items-dualblades-damascus-dual-blades`
-* :ref:`items-dualblades-dark-legions-edge`
-* :ref:`items-dualblades-tallum-dual-blades`
+Epic
+----
+
+.. toctree::
+  :maxdepth: 4
+  :titlesonly:
+
+  dualblades/dark_legions_edge
+  dualblades/tallum_dual_blades
+
+
+Unique
+------
+
+.. toctree::
+  :maxdepth: 4
+  :titlesonly:
+
+  dualblades/damascus_dual_blades

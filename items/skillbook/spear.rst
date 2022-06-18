@@ -1,5 +1,5 @@
-Bows
-====
+Spear
+=====
 
 Epic
 ----
@@ -8,4 +8,5 @@ Epic
   :maxdepth: 4
   :titlesonly:
 
-  bow/plasma_bow
+  spear/frenzy
+  spear/vital_destruction
