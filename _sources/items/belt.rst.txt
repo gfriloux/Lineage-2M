@@ -1,4 +1,11 @@
 Belts
 =====
 
-* :ref:`items-belt-behemoths-leather-belt`
+Unique
+------
+
+.. toctree::
+  :maxdepth: 4
+  :titlesonly:
+
+  belt/behemoths_leather_belt

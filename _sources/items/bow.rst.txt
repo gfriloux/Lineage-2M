@@ -1,4 +1,11 @@
 Bows
 ====
 
-* :ref:`items-bow-plasma-bow`
+Epic
+----
+
+.. toctree::
+  :maxdepth: 4
+  :titlesonly:
+
+  bow/plasma_bow

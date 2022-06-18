@@ -1,5 +1,21 @@
 Lower
 =====
 
-* :ref:`items-lower-basilas-skin`
-* :ref:`items-lower-crystal-gaiters`
+Epic
+----
+
+.. toctree::
+  :maxdepth: 4
+  :titlesonly:
+
+  lower/crystal_gaiters
+
+
+Unique
+------
+
+.. toctree::
+  :maxdepth: 4
+  :titlesonly:
+
+  lower/basilas_skin

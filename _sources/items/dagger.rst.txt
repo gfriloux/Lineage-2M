@@ -1,5 +1,12 @@
 Daggers
 =======
 
-* :ref:`items-dagger-flame-breaker`
-* :ref:`items-dagger-soul-separator`
+Epic
+----
+
+.. toctree::
+  :maxdepth: 4
+  :titlesonly:
+
+  dagger/flame_breaker
+  dagger/soul_separator

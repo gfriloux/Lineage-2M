@@ -16,3 +16,12 @@ Type list
   lower
   magicstone
   material
+  necklace
+  orb
+  ring
+  shoes
+  skillbook
+  spear
+  staff
+  sword
+  upper
