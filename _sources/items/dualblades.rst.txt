@@ -19,4 +19,5 @@ Unique
   :maxdepth: 4
   :titlesonly:
 
+  dualblades/caliburs_dual_blades
   dualblades/damascus_dual_blades

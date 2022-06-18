@@ -9,3 +9,4 @@ Unique
   :titlesonly:
 
   spear/great_axe
+  spear/body_slasher
