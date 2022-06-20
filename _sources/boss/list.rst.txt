@@ -31,7 +31,7 @@ Compact list
   * - :ref:`boss-chertuba`
     - |Magic Damage Reduction| |Ranged Damage Reduction|
     - 
-  * - :ref:`Contaminated Cruma`
+  * - :ref:`boss-contaminated-cruma`
     - |Weapon_Break| |Magic Damage Reduction| |Ranged Damage Reduction|
     - 
   * - Core Susceptor
