@@ -10,4 +10,5 @@ Epic bosses
   andras
   balbo
   behemoth
+  contaminated_cruma
   flynt
