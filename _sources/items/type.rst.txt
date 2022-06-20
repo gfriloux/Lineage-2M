@@ -13,13 +13,16 @@ Type list
   dualblades
   glove
   greatsword
+  helm
   lower
   magicstone
   material
   necklace
   orb
   ring
+  shirt
   shoes
+  sigil
   skillbook
   spear
   staff
