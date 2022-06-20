@@ -14,4 +14,5 @@ Droped By
 * :ref:`boss-breka`
 * :ref:`boss-cabrio`
 * :ref:`boss-chertuba`
+* :ref:`boss-contaminated-cruma`
 * :ref:`boss-flynt`
